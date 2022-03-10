@@ -1,6 +1,8 @@
 # favorite-cmd-commands
 
-Bash commands: 
+
+
+
 $ find -name “ filename”  : to find file with specific name
 
 $ find -name “text” = to find files which start with the word text 
