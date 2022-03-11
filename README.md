@@ -3,11 +3,50 @@
 
 
 
-$ find -name “ filename”  : to find file with specific name
+# Bash Commands I Like:
 
-$ find -name “text” = to find files which start with the word text 
+## Searching Files
 
-$ find -name “*text” = to find files which end with the word text
+```
+$ find -name “filename”
+```
 
-$ git log -p =  Shows all commits and the content of the files
+This will find files with specific name.
+
+
+## Showing History
+
+
+```
+$ git log -p
+```
+TThis shows all commits and the content of the file
+
+## Discarding Changes
+
+```
+$ git restore 
+
+or 
+
+$ git checkout --
+```
+
+
+This command restore changes we made to our file and take us back to previous step.
+
+
+## Some Commands between Git and GitHub
+
+| command   |  function       |
+|--------   |  --------       |
+| $ git add |Adds file to a new commit |
+|$ git commit -m "" | Commit/save the added files|
+|$ git push | Uploads commits to an remote/online repository
+
+
+
+
+
+
 
