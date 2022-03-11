@@ -5,13 +5,13 @@
 
 # Bash Commands I Like:
 
-## Searching Files
+## Searching Hidden Files
 
 ```
-$ find -name “filename”
+$ ls -a
 ```
 
-This will find files with specific name.
+This shows hidden files in our directory.
 
 
 ## Showing History
