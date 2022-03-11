@@ -20,7 +20,7 @@ This will find files with specific name.
 ```
 $ git log -p
 ```
-TThis shows all commits and the content of the file
+This shows all commits and the content of the file
 
 ## Discarding Changes
 
