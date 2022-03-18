@@ -40,7 +40,7 @@ This command restore changes we made to our file and take us back to previous st
 
 | command   |  function       |
 |--------   |  --------       |
-| $ git add |Adds file to a new commit |
+| $ git add . |Adds file to a new commit |
 |$ git commit -m "" | Commit/save the added files|
 |$ git push | Uploads commits to an remote/online repository
 
